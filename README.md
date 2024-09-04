@@ -1,10 +1,10 @@
 ## Tecnologias:
 *Front:*
-    * Redux
-    * React.js
-    * Shad cn 
+    - Redux
+    - React.js
+    - Shad cn 
     
 *Back:*
-    * PHP
-    * Laravel
-    * MySQL 
+    - PHP
+    - Laravel
+    - MySQL 
